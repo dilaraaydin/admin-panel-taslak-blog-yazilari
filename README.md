@@ -1,14 +1,14 @@
-*Bilgisayarınızda PHP ve MySQL kullanıp çalıştırabilmek için AppServ kurulu olması gerekmektedir. 
-En son sürümüne buradan ulaşabilirsiniz:
---> https://www.appserv.org/en/
+>Bilgisayarınızda PHP ve MySQL kullanıp çalıştırabilmek için AppServ kurulu olması gerekmektedir.
 
-*Videolu anlatım için:
---> https://www.youtube.com/watch?v=nT8NvBPsh_Q
+>En son sürümüne buradan ulaşabilirsiniz:
+> https://www.appserv.org/en/
 
+>AppServ kurulumu videolu anlatım için:
+> https://www.youtube.com/watch?v=nT8NvBPsh_Q
 
-*Editör olarak SublimeText kullanıldı.
+>Editör olarak SublimeText kullanıldı.
 En son sürüm için:
---> https://www.sublimetext.com/
+> https://www.sublimetext.com/
 
 
 *Klasör içerisindeki css ve js klasörleri tasarım iyileştirme amacıyla eklendi.
@@ -16,7 +16,7 @@ En son sürüm için:
 
 >Kurulumlar doğru bir şekilde yapıldıktan sonra buradan indirdiğiniz dosyayı editörünüzde açıp inceleyebilir ve dilediğiniz şekilde düzenleyebilirsiniz.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------
 
 >Projedeki veritabanı yapısı için:
 
