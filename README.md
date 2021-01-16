@@ -1,8 +1,6 @@
 *Bilgisayarınızda PHP ve MySQL kullanıp çalıştırabilmek için AppServ kurulu olması gerekmektedir. 
 En son sürümüne buradan ulaşabilirsiniz:
 --> https://www.appserv.org/en/
-
-
 *Videolu anlatım için:
 --> https://www.youtube.com/watch?v=nT8NvBPsh_Q
 
